@@ -5,6 +5,7 @@
 <img src="https://raw.githubusercontent.com/BilokinTaras/Web/main/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%E2%84%961/Screenshot/1.png" width=100%>
 <img src="https://raw.githubusercontent.com/BilokinTaras/Web/main/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%E2%84%961/Screenshot/2.png" width=100%>
 <img src="https://raw.githubusercontent.com/BilokinTaras/Web/main/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%E2%84%961/Screenshot/3.png" width=100%>
+#### Adaptive layout to be continued...
 <img src="https://raw.githubusercontent.com/BilokinTaras/Web/main/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%E2%84%961/Screenshot/4.png" width=100%>
 <img src="https://raw.githubusercontent.com/BilokinTaras/Web/main/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%E2%84%961/Screenshot/5.png" width=100%>
 <img src="https://raw.githubusercontent.com/BilokinTaras/Web/main/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%E2%84%961/Screenshot/6.png" width=100%>
